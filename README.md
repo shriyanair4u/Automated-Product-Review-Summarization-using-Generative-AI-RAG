@@ -102,8 +102,8 @@ README.md
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Install Dependencies
-```bash
+ 1️⃣ Install Dependencies
+ 
 pip install -r requirements.txt
 
 2️⃣ Add API Key (.env file)
@@ -121,8 +121,9 @@ streamlit run src/ui/app_streamlit.py
 5️⃣ Run FastAPI
 uvicorn src.api.api:app --reload
 
+---
 🧪 Evaluation (ROUGE/BLEU)
-
+---
 Run:
 
 python src/rag/eval.py
@@ -138,6 +139,7 @@ BLEU score
 
 Summary vs. Reference comparison
 
+
 ### 📊 Business Impact
 
 - ✔ Reduced manual review analysis time by **50%**
@@ -146,7 +148,10 @@ Summary vs. Reference comparison
 - ✔ Helped product teams identify top issues & feature requests
 
 
-🙋‍♀️ Author
 
+🙋‍♀️ Author
+---
 Shriya Nair
 Data Scientist | Generative AI | RAG | NLP
+
+---
