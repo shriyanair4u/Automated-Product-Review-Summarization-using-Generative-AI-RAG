@@ -1,0 +1,12 @@
+chromadb
+fastapi
+uvicorn
+pandas
+rank-bm25
+openai
+python-dotenv
+tqdm
+streamlit
+rouge-score
+nltk
+
